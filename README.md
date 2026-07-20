@@ -1,3 +1,3 @@
 # Bionic_arms
 moving a finger of a bionic arms
-# voice control
+# voice controler
