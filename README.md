@@ -3,4 +3,3 @@ The project use Arduino voice recognition module v3 sensor for moving servo moto
 # voice controller
 ![image](IMG-20230731-WA0011.jpg)
 
-# 🚧 Under active development.
